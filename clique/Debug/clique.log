@@ -1,0 +1,4 @@
+﻿  MainClique.cpp
+c:\users\tcfla\source\repos\clique\clique\mainclique.cpp(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tcfla\source\repos\clique\clique\mainclique.cpp(66): warning C4305: 'initializing': truncation from 'double' to 'float'
+  clique.vcxproj -> C:\Users\tcfla\source\repos\clique\Debug\clique.exe
